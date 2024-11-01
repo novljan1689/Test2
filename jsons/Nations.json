@@ -11,7 +11,7 @@
 	
 	"declaringWar": "The strength of our ancestors will see us through this battle!",
 	"attacked": "Do you think Croatia will bow to your aggression? We will fight for every stone!",
-	"defeated": "Our spirits may fall, but Croatia will rise again!",
+	"defeated": "Our bodies may fall, but Croatia will rise again!",
 	"introduction": "Welcome. May our peoples find friendship and peace.",
 	
 	"neutralHello": "Greetings, traveler.",
@@ -30,7 +30,7 @@
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 		"uniqueName": "Plitvice",
-		"uniques": ["+1 Happiness from all [Lake] tiles"]
+		"uniques": ["[+1 Happiness] from all [Lake] tiles"]
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
