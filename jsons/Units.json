@@ -5,10 +5,10 @@
 	"uniqueTo": "Croatia",
 	"replaces": "Musketman",
 	"movement": 3,
-	"strength": 40,
+	"strength": 30,
 	"cost": 150,
 	"requiredTech": "Gunpowder"
-	"specialAttributes": ["+20% combat strength in rough terrain", "+15% combat strength when attacking naval units"],
+	"specialAttributes": ["+25% combat strength in rough terrain", "+50% combat strength when attacking naval units"],
 	"attackSound": "battle_cry"
 	}
 ]
