@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Kamenita Vrata",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Croatia",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 3,
+		"culture": 3,
+		"faith": 3,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Shrine",
+		"requiredTech": "Masonry"
 	},
 	{
 		"name": "Breeders",
