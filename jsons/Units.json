@@ -10,7 +10,7 @@
 	"strength": 30,
 	"cost": 125,
 	"requiredTech": "Gunpowder",
-	"uniques": ["Can move after attacking", "May attack when embarked", "[+50]% Strength <vs naval units> <when attacking>"],
+	"uniques": ["Can move after attacking", "May attack when embarked", "[+50]% Strength <vs [Water] units>"],
 	"attackSound": "shot"
 	},
 	{
