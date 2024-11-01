@@ -1,15 +1,17 @@
 [
 	{
 	"name": "Uskok",
-	"unitType": "Melee",
+	"unitType": "Gunpowder",
+	"upgradesTo": "Rifleman",
+	"obsoleteTech": "Rifling",
 	"uniqueTo": "Croatia",
 	"replaces": "Musketman",
 	"movement": 3,
 	"strength": 30,
-	"cost": 150,
+	"cost": 125,
 	"requiredTech": "Gunpowder",
-	"uniques": ["May attack when embarked", "+25% combat strength in rough terrain", "+50% combat strength when attacking naval units"],
-	"attackSound": "battle_cry"
+	"uniques": ["Can move after attacking", "May attack when embarked", "[+50]% Strength <vs naval units> <when attacking>"],
+	"attackSound": "shot"
 	},
 	{
 	"name": "Cravats",
@@ -19,8 +21,11 @@
 	"movement": 5,
 	"strength": 40,
 	"cost": 200,
-	"uniques": "Can move after attacking"
 	"requiredTech": "Military Science",
-	"attackSound": "battle_cry"
+	"obsoleteTech": "Combustion",
+	"requiredResource": "Horses",
+	"upgradesTo": "Landship",
+	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+	"attackSound": "horse"
 	}
 ]
