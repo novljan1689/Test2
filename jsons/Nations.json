@@ -29,8 +29,9 @@
 
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
-	"unique": "MANIFEST_DESTINY",
-	"cities": [
+		"uniqueName": "Vila Velebita",
+		"uniques": ["[+1 Culture from all [Culture] buildings"],
+"cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
 		"Koprivnica", "Bjelovar", "Čakovec", "Virovitica", "Samobor", "Pazin", "Omiš", "Benkovac", "Đakovo", "Orahovica"
