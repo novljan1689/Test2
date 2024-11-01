@@ -30,7 +30,7 @@
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 		"uniqueName": "Ragusan Republic",
-		"uniques": ["+1 Gold from all coastal cities"],
+		"uniques": ["+1 Gold from [Coast] tiles"],
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
