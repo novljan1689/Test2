@@ -7,8 +7,19 @@
 	"movement": 3,
 	"strength": 30,
 	"cost": 150,
-	"requiredTech": "Gunpowder"
+	"requiredTech": "Gunpowder",
 	"specialAttributes": ["+25% combat strength in rough terrain", "+50% combat strength when attacking naval units"],
+	"attackSound": "battle_cry"
+	},
+	{
+	"name": "Cravats",
+	"unitType": "Mounted",
+	"uniqueTo": "Croatia",
+	"replaces": "Cavalry",
+	"movement": 5,
+	"strength": 40,
+	"cost": 200,
+	"requiredTech": "Military Science",
 	"attackSound": "battle_cry"
 	}
 ]
