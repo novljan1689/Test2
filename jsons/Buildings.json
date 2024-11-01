@@ -1,9 +1,8 @@
 [
 	{
 		"name": "Kamenita Vrata",
-		"replaces": "Circus Maximus",
 		"uniqueTo": "Croatia",
-		"cost": 480,
+		"cost": 120,
 		"happiness": 3,
 		"culture": 3,
 		"faith": 3,
@@ -12,13 +11,14 @@
 		"requiredTech": "Masonry"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Pulski Koloseum",
+                "replaces": "Circus Maximus",
+		"uniqueTo": "Croatia",
+		"cost": 200,
+		"happiness": 5,
+		"culture": 5,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
 	}
 ]
