@@ -9,16 +9,5 @@
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Shrine",
 		"requiredTech": "Masonry"
-	},
-	{
-		"name": "Pulski Koloseum",
-                "replaces": "Circus Maximus",
-		"uniqueTo": "Croatia",
-		"cost": 200,
-		"happiness": 5,
-		"culture": 5,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
 	}
 ]
