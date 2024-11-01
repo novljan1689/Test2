@@ -30,7 +30,7 @@
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 		"uniqueName": "Plitvice",
-		"uniques": ["[+1 Happiness] from all [Lake] tiles"]
+		"uniques": ["[+1 Happiness] in all coastal cities"]
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
