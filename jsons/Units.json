@@ -8,7 +8,7 @@
 	"strength": 30,
 	"cost": 150,
 	"requiredTech": "Gunpowder",
-	"specialAttributes": ["+25% combat strength in rough terrain", "+50% combat strength when attacking naval units"],
+	"specialAttributes": ["May attack when embarked", "+25% combat strength in rough terrain", "+50% combat strength when attacking naval units"],
 	"attackSound": "battle_cry"
 	},
 	{
