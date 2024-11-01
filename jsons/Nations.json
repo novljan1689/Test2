@@ -29,7 +29,7 @@
 
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
-		"uniqueName": "Ragusan Republic",
+		"uniqueName": "Republic of Ragusa",
 		"uniques": ["[+1 Production] [in all coastal cities]", "[+1 Gold] from each Trade Route"],
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
