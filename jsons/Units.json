@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+	"name": "Uskok",
+	"unitType": "Melee",
+	"uniqueTo": "Croatia",
+	"replaces": "Musketman",
+	"movement": 3,
+	"strength": 40,
+	"cost": 150,
+	"requiredTech": "Gunpowder",
+	"requiredResource": "None",
+	"promotions": ["Guerilla Warfare", "Amphibious", "Bonus vs. Naval Units"],
+	"specialAttributes": ["+20% combat strength in rough terrain", "+15% combat strength when attacking naval units"],
+	"attackSound": "battle_cry"
 	}
 ]
