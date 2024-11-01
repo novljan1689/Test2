@@ -7,9 +7,7 @@
 	"movement": 3,
 	"strength": 40,
 	"cost": 150,
-	"requiredTech": "Gunpowder",
-	"requiredResource": "None",
-	"promotions": ["Guerilla Warfare", "Amphibious", "Bonus vs. Naval Units"],
+	"requiredTech": "Gunpowder"
 	"specialAttributes": ["+20% combat strength in rough terrain", "+15% combat strength when attacking naval units"],
 	"attackSound": "battle_cry"
 	}
