@@ -30,7 +30,7 @@
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 		"uniqueName": "Vila Velebita",
-		"uniques": ["[+1 Culture] from all [Mountain] tiles"],
+		"uniques": ["[+1 Culture] from [Mountain] tiles"],
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
