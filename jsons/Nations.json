@@ -30,7 +30,7 @@
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 		"uniqueName": "Ragusan Republic",
-		"uniques": "+[50]% Production when constructing [Harbor]"],"+[50]% Production when constructing [Market]"]
+		"uniques": "+[50]% Production when constructing [Harbor]","+[50]% Production when constructing [Market]"],
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
