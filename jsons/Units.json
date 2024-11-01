@@ -19,6 +19,7 @@
 	"movement": 5,
 	"strength": 40,
 	"cost": 200,
+	"specialAttributes": "Can move after attacking"
 	"requiredTech": "Military Science",
 	"attackSound": "battle_cry"
 	}
