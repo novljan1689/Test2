@@ -30,7 +30,7 @@
 	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 		"uniqueName": "Ragusan Republic",
-		"uniques": ["[+1 Production] in all coastal cities", "[+1 Gold] from Trade Routes"],
+		"uniques": ["[+1 Production] in all coastal cities"],
 "cities": [
 		"Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Šibenik", "Varaždin", "Karlovac", "Dubrovnik", "Slavonski Brod",
 		"Pula", "Sisak", "Vukovar", "Trogir", "Knin", "Sinj", "Makarska", "Poreč", "Vinkovci", "Krapina", "Gospić",
