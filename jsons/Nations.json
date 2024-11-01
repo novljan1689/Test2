@@ -27,7 +27,7 @@
 	"afterPeace": "Peace is hard-won but welcome. Let us rebuild stronger bonds.",
 	"tradeRequest": "Croatia brings a fair offer to the table.",
 
-	"outerColor": [48,79,254],
+	"outerColor": [255,0,0],
 	"innerColor": [255,255,255],
 	"unique": "MANIFEST_DESTINY",
 	"cities": [
